@@ -9,11 +9,17 @@ body {
   text-decoration: underline;
 }
 
-#about {
+#home {
   margin-top: 6em;
 }
 
+#about {
+  border-style: solid;
+  border-width: 5px;
+}
+
 #projects {
+  margin: 2em 0em 0em 0em;
   border-style: solid;
   border-width: 5px;
 }
