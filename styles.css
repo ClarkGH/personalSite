@@ -1,8 +1,8 @@
 body {
   color: #304050;
-  background: url()no-repeat center center fixed;
+  /*background: url(image here)no-repeat center center fixed;*/
   background-color: #000000;
-  background-blend-mode: screen;
+  /*background-blend-mode: screen; */
 }
 
 .underline {
