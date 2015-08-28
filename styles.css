@@ -18,6 +18,11 @@ body {
   border-width: 5px;
 }
 
+.project-explanation {
+  padding: 1em;
+  font-size: 1.3em;
+}
+
 #contact {
   margin: 2em 0em 0em 0em;
   border-style: solid;

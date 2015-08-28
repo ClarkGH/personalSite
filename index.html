@@ -1,7 +1,9 @@
 <head>
   <title>Brilliance in Beauty</title>
+  <link rel="icon" type="image/png" sizes="16x16" href="images/belch.png">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="styles.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 </head>
 <body>  
@@ -25,8 +27,8 @@
     </div>
   </nav>
   
+  <a name="about"></a>
   <div class='container-fluid'>
-    
     <div class="row" id="about">
       <div class="text-center">
         <h2 id="headline">Clark Hinchcliff        </h2>
@@ -39,11 +41,17 @@
       <a name="projects"></a>
       <h3 class="text-center underline">Projects</h3>
       <div class="container">
-        <div class="row text-center">
+        <div class="row">
           <a href="http://new-world-radio.herokuapp.com/" target="_blank">
             <br> 
-            <img src="images/new-world-radio.png">
+            <img class="img-responsive center-block" src="images/new-world-radio.png">
           </a>
+          <p class="project-explanation">
+            Meet New World Radio. This project was created to play music from any major country from any year between 1940-2014 and be reminiscent of the old black and white iPod. While the project is now deprecated after changes to the source APIs, you can still view the source code <a href="https://github.com/fence-lizards-2014/NewWorldRadio" target="_blank">here</a>.
+          </p>
+          <p class="project-explanation">
+            This project was built using Ruby, Rails, RSpec, Capybara, Javascript, JQuery, PostgreSQL, and the Youtube and Echonest APIs.
+          </p>
         </div>
       </div>
     </div>
