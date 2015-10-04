@@ -1,0 +1,26 @@
+{
+  "name": "clark_portfolio",
+  "version": "0.0.1",
+  "description": "My own personal portfolio/blog site",
+  "main": "app.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClarkGH/personalSite.git"
+  },
+  "author": "Clark Hinchcliff (clarkhinchcliff@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ClarkGH/personalSite/issues"
+  },
+  "homepage": "https://github.com/ClarkGH/personalSite#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3"
+  }
+}
