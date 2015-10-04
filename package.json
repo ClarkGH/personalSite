@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/ClarkGH/personalSite/issues"
   },
-  "homepage": "https://github.com/ClarkGH/personalSite#readme"
+  "homepage": "https://github.com/ClarkGH/personalSite#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3"
+  }
 }
