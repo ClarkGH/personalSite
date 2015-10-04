@@ -1,0 +1,21 @@
+{
+  "name": "clark hinchcliff",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ClarkGH/personalSite",
+  "authors": [
+    "Clark Hinchcliff <clarkhinchcliff@gmail.com>"
+  ],
+  "description": "personal portfolio",
+  "main": "app.js",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
